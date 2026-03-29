@@ -46,7 +46,3 @@ The system consists of:
 pip install -r requirements.txt
 cd src
 streamlit run app.py
-
-Author - 
-Ravi Kiran
-Senior Project Manager | AI Governance Enthusiast
